@@ -1,0 +1,1 @@
+Draws n sinus's
